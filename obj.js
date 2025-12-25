@@ -19,9 +19,18 @@
 
 // person1.greet();
 
-const animal = {
-  eats: true,
+// const animal = {
+//   eats: true,
+// };
+// const rabbit = Object.create(animal);
+// rabbit.eats = null; // shadowing
+// console.log(rabbit.eats);
+
+const parent = {
+  hair: "black",
 };
-const rabbit = Object.create(animal);
-rabbit.eats = null; // shadowing
-console.log(rabbit.eats);
+const child = Object.create(parent);
+child.name = "akhil";
+
+console.log("names" in child);
+console.log(child.hasOwnProperty("name"));
