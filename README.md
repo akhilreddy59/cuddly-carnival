@@ -74,6 +74,15 @@ This repository reflects **consistent learning, logical thinking, and real imple
 - Method resolution through prototypes
 - Understanding inheritance in JavaScript without theory-heavy abstractions
 
+**Day 9 - new  keyword internals**
+
+- Create a New Empty Object
+- Link the Prototype
+- Bind this and Execute
+- Return the Object
+  - Default way
+  - Override
+
 ---
 ## Strucutre
 Till day 9 the repo hos no proper structure 
