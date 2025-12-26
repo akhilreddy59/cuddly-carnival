@@ -74,7 +74,7 @@ This repository reflects **consistent learning, logical thinking, and real imple
 - Method resolution through prototypes
 - Understanding inheritance in JavaScript without theory-heavy abstractions
 
-**Day 9 - new  keyword internals**
+**Day 10 - new  keyword internals**
 
 - Create a New Empty Object
 - Link the Prototype
@@ -84,7 +84,9 @@ This repository reflects **consistent learning, logical thinking, and real imple
   - Override
 
 ---
+
 ## Strucutre
-Till day 9 the repo hos no proper structure 
-But from Day 10 proper file and structure will be available 
+
+Till day 9 the repo hos no proper structure
+But from Day 10 proper file and structure will be available
 This are my Learnings , i daily push my learnings in github for more practice and to gain experience in github
