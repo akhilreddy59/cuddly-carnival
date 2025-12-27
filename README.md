@@ -83,6 +83,12 @@ This repository reflects **consistent learning, logical thinking, and real imple
   - Default way
   - Override
 
+**Day 11 - Shallow vs deep copy**
+
+- Assignment (=): No copy; just another pointer to the same memory.
+- Shallow Copy ({...}): Copies the first layer only. Nested objects are still shared.
+- Deep Copy (structuredClone): Complete independence. Recommended for complex data. MDN Reference for structuredClone.
+
 ---
 
 ## Strucutre
