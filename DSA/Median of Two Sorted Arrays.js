@@ -9,7 +9,7 @@ console.log(("b" + "a" + +"a" + "a").toLowerCase());
 const x = [2, 2, 4, 4];
 const y = [2, 2, 2, 4, 4];
 
-console.log("j".charCodeAt(0));
+// console.log("j".charCodeAt(0));
 var add = function (x, y) {
   let a = [...x, ...y];
   let set = new Set(a);
